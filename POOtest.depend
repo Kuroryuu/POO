@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1390748753 source:d:\poo_cpp\class\pootest\main.cpp
+	<iostream>
+	"Personnage.h"
+
+1390748762 e.h"
+
+1390748720 d:\poo_cpp\class\pootest\personnage.h
+	<iostream>
+	<string>
+
+1390748722 
+
+1390906572 source:g:\class\pootest\main.cpp
+	<iostream>
+	"Personnage.h"
+
+1390748722 g:\class\pootest\personnage.h
+	<iostream>
+	<string>
+
+1390748762 source:g:\class\pootest\personnage.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+
+1393074383 source:/home/kuroryuu/Bureau/SaveUSB/Class/POOtest/main.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+	"Arme.h"
+
+1393074249 /home/kuroryuu/Bureau/SaveUSB/Class/POOtest/Personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+	"Armure.h"
+
+1393074952 source:/home/kuroryuu/Bureau/SaveUSB/Class/POOtest/Personnage.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+	"Arme.h"
+
+1393071496 source:/home/kuroryuu/Bureau/SaveUSB/Class/POOtest/Arme.cpp
+	<iostream>
+	<string>
+	"Arme.h"
+
+1393073774 /home/kuroryuu/Bureau/SaveUSB/Class/POOtest/Arme.h
+	<iostream>
+	<string>
+
+1393076845 /home/kuroryuu/Bureau/SaveUSB/Class/POOtest/Armure.h
+	<iostream>
+	<string>
+
+1393076835 source:/home/kuroryuu/Bureau/SaveUSB/Class/POOtest/Armure.cpp
+	<iostream>
+	<string>
+	"Armure.h"
+	"Arme.h"
+
