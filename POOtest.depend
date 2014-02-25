@@ -61,3 +61,42 @@
 	"Armure.h"
 	"Arme.h"
 
+1393195174 source:/home/kuroryuu/Project/KuroiMonogatariX/POOtest/Arme.cpp
+	<iostream>
+	<string>
+	"Arme.h"
+
+1393195174 /home/kuroryuu/Project/KuroiMonogatariX/POOtest/Arme.h
+	<iostream>
+	<string>
+
+1393195174 source:/home/kuroryuu/Project/KuroiMonogatariX/POOtest/Armure.cpp
+	<iostream>
+	<string>
+	"Armure.h"
+	"Arme.h"
+
+1393195174 /home/kuroryuu/Project/KuroiMonogatariX/POOtest/Armure.h
+	<iostream>
+	<string>
+
+1393195174 source:/home/kuroryuu/Project/KuroiMonogatariX/POOtest/Personnage.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+	"Arme.h"
+	"Armure.h"
+
+1393195174 /home/kuroryuu/Project/KuroiMonogatariX/POOtest/Personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+	"Armure.h"
+
+1393196762 source:/home/kuroryuu/Project/KuroiMonogatariX/POOtest/main.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+	"Arme.h"
+	"Armure.h"
+

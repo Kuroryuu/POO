@@ -30,7 +30,7 @@ void Personnage::deplacer(int x)
 
 void Personnage::subirDegat()
 {
-    m_hpActuel -= (m_arme.getDegat()/m_armure.getDefense())*12;
+    m_hpActuel -= (m_arme.getDegat()/m_armure.getDefense());
 }
 
 void Personnage::afficherEtat() const
